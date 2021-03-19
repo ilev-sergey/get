@@ -1,0 +1,4 @@
+Newton’s Second Law:
+According to Newton’s second law of motion, the force can be expressed by the product of mass and acceleration of the body.
+
+F = m * a
