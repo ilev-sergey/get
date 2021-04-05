@@ -69,7 +69,7 @@ def light_binary(binary, period):
             light_up(i)
     time.sleep(period)
     for i in range(len(reversed_binary)):
-        if reversed_binary[1]:
+        if reversed_binary[i]:
             light_down(i)
 
 
